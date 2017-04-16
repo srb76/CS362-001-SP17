@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProjectInfo>
+    <totalNumberOfClasses>1</totalNumberOfClasses>
+    <totalNumberOfTestableClasses>1</totalNumberOfTestableClasses>
+    <overallCoverage>1.0</overallCoverage>
+    <generatedTestSuites>
+        <fullNameOfTargetClass>edu.osu.cs362.App</fullNameOfTargetClass>
+        <fullNameOfTestSuite>edu.osu.cs362.App_ESTest</fullNameOfTestSuite>
+        <totalEffortInSeconds>5</totalEffortInSeconds>
+        <coverageTestSuites>
+            <id>0</id>
+            <fullPathOfTestSuite>C:\C stuff\java_stuff\hw1\.evosuite\tmp_2017_04_15_17_59_56\tests\edu\osu\cs362\App_ESTest.java</fullPathOfTestSuite>
+            <coverage>
+                <criterion>LineCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>BranchCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>ExceptionCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>WeakMutationScore</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>OutputCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>MethodCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>MethodNoExceptionCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <coverage>
+                <criterion>CBranchCoverage</criterion>
+                <coverageValue>1.0</coverageValue>
+            </coverage>
+            <numberOfTests>2</numberOfTests>
+            <totalNumberOfStatements>3</totalNumberOfStatements>
+            <effortInSeconds>5</effortInSeconds>
+        </coverageTestSuites>
+    </generatedTestSuites>
+</ProjectInfo>
