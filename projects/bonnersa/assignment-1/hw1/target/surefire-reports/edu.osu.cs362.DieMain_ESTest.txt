@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: edu.osu.cs362.DieMain_ESTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.5 sec <<< FAILURE! - in edu.osu.cs362.DieMain_ESTest
+test0(edu.osu.cs362.DieMain_ESTest)  Time elapsed: 0.031 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:642)
+	at org.evosuite.runtime.instrumentation.EvoClassLoader.instrumentClass(EvoClassLoader.java:116)
+	at org.evosuite.runtime.instrumentation.EvoClassLoader.loadClass(EvoClassLoader.java:92)
+	at edu.osu.cs362.DieMain.main(DieMain.java:12)
+	at edu.osu.cs362.DieMain_ESTest.test0(DieMain_ESTest.java:20)
+

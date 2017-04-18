@@ -1,0 +1,85 @@
+-------------------------------------------------------------------------------
+Test set: edu.osu.cs362.Die_ESTest
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 0, Errors: 19, Skipped: 0, Time elapsed: 0.172 sec <<< FAILURE! - in edu.osu.cs362.Die_ESTest
+test06(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.032 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:642)
+	at org.evosuite.runtime.instrumentation.EvoClassLoader.instrumentClass(EvoClassLoader.java:116)
+	at org.evosuite.runtime.instrumentation.EvoClassLoader.loadClass(EvoClassLoader.java:92)
+	at edu.osu.cs362.Die_ESTest.test06(Die_ESTest.java:79)
+
+test17(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test17(Die_ESTest.java:193)
+
+test07(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.015 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test07(Die_ESTest.java:86)
+
+test18(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test18(Die_ESTest.java:205)
+
+test08(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test08(Die_ESTest.java:93)
+
+test09(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test09(Die_ESTest.java:102)
+
+test02(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.015 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test02(Die_ESTest.java:47)
+
+test13(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test13(Die_ESTest.java:140)
+
+test03(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test03(Die_ESTest.java:55)
+
+test14(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test14(Die_ESTest.java:151)
+
+test04(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test04(Die_ESTest.java:64)
+
+test15(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.015 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test15(Die_ESTest.java:165)
+
+test05(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test05(Die_ESTest.java:72)
+
+test16(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test16(Die_ESTest.java:179)
+
+test10(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test10(Die_ESTest.java:112)
+
+test00(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test00(Die_ESTest.java:23)
+
+test11(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test11(Die_ESTest.java:120)
+
+test01(edu.osu.cs362.Die_ESTest)  Time elapsed: 0.015 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test01(Die_ESTest.java:33)
+
+test12(edu.osu.cs362.Die_ESTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: edu/osu/cs362/Die
+	at edu.osu.cs362.Die_ESTest.test12(Die_ESTest.java:132)
+

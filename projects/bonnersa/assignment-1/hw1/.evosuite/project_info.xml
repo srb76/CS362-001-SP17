@@ -2,21 +2,21 @@
 <ProjectInfo>
     <totalNumberOfClasses>1</totalNumberOfClasses>
     <totalNumberOfTestableClasses>1</totalNumberOfTestableClasses>
-    <overallCoverage>1.0</overallCoverage>
+    <overallCoverage>0.68</overallCoverage>
     <generatedTestSuites>
-        <fullNameOfTargetClass>edu.osu.cs362.App</fullNameOfTargetClass>
-        <fullNameOfTestSuite>edu.osu.cs362.App_ESTest</fullNameOfTestSuite>
-        <totalEffortInSeconds>5</totalEffortInSeconds>
+        <fullNameOfTargetClass>edu.osu.cs362.MyQuickSort</fullNameOfTargetClass>
+        <fullNameOfTestSuite>edu.osu.cs362.MyQuickSort_ESTest</fullNameOfTestSuite>
+        <totalEffortInSeconds>42</totalEffortInSeconds>
         <coverageTestSuites>
             <id>0</id>
-            <fullPathOfTestSuite>C:\C stuff\java_stuff\hw1\.evosuite\tmp_2017_04_15_17_59_56\tests\edu\osu\cs362\App_ESTest.java</fullPathOfTestSuite>
+            <fullPathOfTestSuite>C:\C stuff\java_stuff\hw1\.evosuite\tmp_2017_04_16_22_12_43\tests\edu\osu\cs362\MyQuickSort_ESTest.java</fullPathOfTestSuite>
             <coverage>
                 <criterion>LineCoverage</criterion>
-                <coverageValue>1.0</coverageValue>
+                <coverageValue>0.44</coverageValue>
             </coverage>
             <coverage>
                 <criterion>BranchCoverage</criterion>
-                <coverageValue>1.0</coverageValue>
+                <coverageValue>0.4</coverageValue>
             </coverage>
             <coverage>
                 <criterion>ExceptionCoverage</criterion>
@@ -24,7 +24,7 @@
             </coverage>
             <coverage>
                 <criterion>WeakMutationScore</criterion>
-                <coverageValue>1.0</coverageValue>
+                <coverageValue>0.56</coverageValue>
             </coverage>
             <coverage>
                 <criterion>OutputCoverage</criterion>
@@ -36,15 +36,15 @@
             </coverage>
             <coverage>
                 <criterion>MethodNoExceptionCoverage</criterion>
-                <coverageValue>1.0</coverageValue>
+                <coverageValue>0.67</coverageValue>
             </coverage>
             <coverage>
                 <criterion>CBranchCoverage</criterion>
-                <coverageValue>1.0</coverageValue>
+                <coverageValue>0.4</coverageValue>
             </coverage>
-            <numberOfTests>2</numberOfTests>
-            <totalNumberOfStatements>3</totalNumberOfStatements>
-            <effortInSeconds>5</effortInSeconds>
+            <numberOfTests>4</numberOfTests>
+            <totalNumberOfStatements>10</totalNumberOfStatements>
+            <effortInSeconds>42</effortInSeconds>
         </coverageTestSuites>
     </generatedTestSuites>
 </ProjectInfo>
